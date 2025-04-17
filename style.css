@@ -1,0 +1,23 @@
+.flag{
+  width: 300px;
+  height: 150px;
+  border: 1px solid #000;
+}
+
+.a{
+  height: 50px;
+  width: 300px;
+  background-color: #ed1b24;
+}
+
+.b{
+  height: 50px;
+  width: 300px;
+  background-color: #ffffff;
+}
+
+.c{
+  height: 50px;
+  width: 300px;
+  background-color: #00a652;
+}
